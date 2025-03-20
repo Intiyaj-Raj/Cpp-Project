@@ -1,11 +1,11 @@
 C++ Basics Project 
 Atm 
 <br>
-<div>
-    <h1>Calculator</h1><br>
-    <p>simple calcul</p><br>
-    <p>Scientific Calculator</p><br>
-</div>
+Calculator
+<br>
+simple calculator
+<br>
+Scientific Calculator
 <br>
 Quiz Game
 <br>
